@@ -1,5 +1,5 @@
 # landing-page-pessoal
-![Alt text](Minha_Lading_page.png)
+![Alt text](screenshot/Minha_Lading_page.png)
 # Tecnologias usadas
 - HTML
 - CSS
