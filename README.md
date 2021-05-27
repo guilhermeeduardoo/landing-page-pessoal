@@ -1,5 +1,5 @@
 # landing-page-pessoal
-
+![Alt text](.jpg?raw=true "Página Inicial")
 # Tecnologias usadas
 - HTML
 - CSS
